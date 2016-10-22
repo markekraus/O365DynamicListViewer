@@ -1,0 +1,7 @@
+*.exe
+*.TempPoint.*
+*.RestorePoint.*
+PesterGlossary.docx
+CustomMenu.inf
+*.psbuild
+/Staging/*
