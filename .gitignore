@@ -5,3 +5,4 @@ PesterGlossary.docx
 CustomMenu.inf
 *.psbuild
 /Staging/*
+*.Package.ps1
